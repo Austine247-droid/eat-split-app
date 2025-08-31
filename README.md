@@ -1,6 +1,8 @@
 </div>
 <img src="https://github.com/Austine247-droid/eat-split-app/blob/main/eat-split.png?raw=true">
 
+https://github.com/user-attachments/assets/7306e311-2d4c-4765-bc0c-c34f31acb9aa
+
 
 ## 📋 <a name="table">Table of Contents</a>
 

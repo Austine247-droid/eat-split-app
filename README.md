@@ -1,5 +1,6 @@
 </div>
-<!-- <img src="https://github.com/Austine247-droid/alx-project-nexus/blob/main/banner7.png?raw=true"> -->
+<img src="https://github.com/Austine247-droid/eat-split-app/blob/main/eat-split.png?raw=true">
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -23,4 +24,4 @@ and many more, including code architecture and reusability
 
 ## Screenshots
 
-<img src="https://github.com/Austine247-droid/alx-project-nexus/blob/main/banner7.png?raw=true">
+<img src="https://github.com/Austine247-droid/eat-split-app/blob/main/eat-split.png?raw=true">

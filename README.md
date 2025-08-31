@@ -1,6 +1,7 @@
 </div>
 <div align="center">
 <h3 align="center">An Eat and Split App</h3>
+ 
   <img src="https://img.shields.io/badge/Eat_and_Split_App-blue" />
 
 
@@ -8,7 +9,7 @@
 https://github.com/user-attachments/assets/da752f7b-aac3-46ed-a540-397727921e72
 
 
-
+ [Eat-and-Split Project Link](https://eat-split-app-mu.vercel.app/)
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
